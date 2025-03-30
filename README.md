@@ -6,8 +6,6 @@ This script sets up a secure HTTPS server on Ubuntu using Apache2 and a self-sig
 ## Features
 - 📦 Installs and enables Apache2 web server
 - 🔐 Enables SSL support and generates a self-signed certificate
-- 🌐 Creates a stylish, futuristic web page served over HTTPS
-- 🧼 Clean and colorized terminal output
 - 💻 Minimal interaction needed — fully automated
 
 ## Usage
