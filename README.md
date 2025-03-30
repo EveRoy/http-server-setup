@@ -13,8 +13,8 @@ This script sets up a secure HTTPS server on Ubuntu using Apache2 and a self-sig
 ## Usage
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/EveRoy/http-server-setup.git
+cd http-server-setup
 ```
 
 ### 2. Make the Script Executable
