@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Clean and Stylish HTTPS Server Setup Script
 
 print() {
     echo -e "\033[1;36m[$(date '+%H:%M:%S')]\033[0m $1"
